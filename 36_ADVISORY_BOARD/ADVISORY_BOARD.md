@@ -1,0 +1,25 @@
+# Advisory Board — CLO3D_SDK
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** CLO3D_SDK | Category: CLOTHING_MANUFACTURING
+**Upstream:** https://github.com/nicedoc/clo3d-sdk (MIT)
+
+## Overview
+
+This document covers advisory board for the Anticloud integration of CLO3D_SDK.
+
+CLO 3D garment simulation SDK bindings
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into CLO3D_SDK to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
